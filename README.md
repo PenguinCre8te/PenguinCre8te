@@ -1,61 +1,11 @@
-# Welcome!
+# Hello
 
-foo bar baz
+I love penguins.
 
+I am skilled at C and python.
 
+I also know javascript, java and cpp.
 
+I am learning rust.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-please dont look into projects older than 2026 they are absolute garbage
+I'm currently working on making roblox run on arm64 linux.
